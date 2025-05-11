@@ -1,0 +1,15 @@
+# Auto Accountant
+
+**Author:** Kobe Prior  
+**Date Started:** May 11, 2025  
+
+## Project Goal  
+The objective of this project is to develop a tool that allows users to capture photos of receipts using their phone. The program will then process the receipts, extract relevant data, and automatically update a Google Sheet with the parsed information.
+
+# Side Quest
+Learn VIM motions
+
+# Directories
+Read_Reciept
+
+Write_to_Google_sheet
