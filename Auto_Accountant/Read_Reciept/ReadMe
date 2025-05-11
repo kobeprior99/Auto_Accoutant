@@ -1,0 +1,23 @@
+# Read Receipt
+
+## Overview
+This program leverages computer vision to identify the total amount of a product from a receipt. If no total is detected, the program will output:  
+`"no total seen"`
+
+## Author
+Kobe Prior
+
+## File Name
+`Read_Reciept.py`
+
+## Date of Creation
+May 11, 2025
+
+## Features
+- Uses computer vision to extract the total amount from receipts.
+- Provides clear feedback when no total is detected.
+
+## Usage
+Run the program to process receipt images and extract the total amount. If no total is found, the program will notify you.
+
+---
