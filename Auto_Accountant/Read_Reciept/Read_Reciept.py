@@ -1,5 +1,3 @@
-import os
-import sys
 import cv2
 import pytesseract
 import numpy as np
@@ -28,3 +26,6 @@ def Read_reciept(image_path):
     text = pytesseract.image_to_string(blurred)
     
     return text
+
+# Example usage
+print(Read_reciept("1000-reciept.jpg"))
