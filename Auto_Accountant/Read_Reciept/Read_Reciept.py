@@ -1,7 +1,5 @@
 import cv2
 import pytesseract
-import numpy as np
-import pandas as pd
 
 def Read_reciept(image_path):
     """
@@ -28,4 +26,4 @@ def Read_reciept(image_path):
     return text
 
 # Example usage
-print(Read_reciept("1000-reciept.jpg"))
+print(Read_reciept("1000-receipt.jpg"))
